@@ -1,8 +1,5 @@
-# Created by https://www.toptal.com/developers/gitignore/api/node,vuejs,jspm
-# Edit at https://www.toptal.com/developers/gitignore?templates=node,vuejs,jspm
-
-### jspm ###
-jspm_packages
+# Created by https://www.toptal.com/developers/gitignore/api/node,vuejs
+# Edit at https://www.toptal.com/developers/gitignore?templates=node,vuejs
 
 ### Node ###
 # Logs
@@ -131,4 +128,4 @@ dist/
 npm-debug.log
 yarn-error.log
 
-# End of https://www.toptal.com/developers/gitignore/api/node,vuejs,jspm
+# End of https://www.toptal.com/developers/gitignore/api/node,vuejs
